@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.pjfanning:poi-shared-strings:2.5.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/pjfanning/poi-shared-strings/2.5.3/poi-shared-strings-2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/pjfanning/poi-shared-strings/2.5.3/poi-shared-strings-2.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/pjfanning/poi-shared-strings/2.5.3/poi-shared-strings-2.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
